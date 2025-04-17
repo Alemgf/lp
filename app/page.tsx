@@ -87,8 +87,7 @@ export default function Home() {
                 Templates Profissionais
               </span>
               <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-                {/* Landing Pages <span className="gradient-text">Prontas</span> para seu Negócio */}
-                teste
+                Landing Pages <span className="gradient-text">Prontas</span> para seu Negócio                
               </h1>
               <p className="text-xl text-muted-foreground mb-8 max-w-lg">
                 Templates profissionais e personalizáveis para impulsionar sua presença online. Escolha, personalize e
